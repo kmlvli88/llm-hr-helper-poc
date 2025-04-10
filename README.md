@@ -2,9 +2,9 @@
 
 本專案為一個 HR 請假制度查詢小助手的概念驗證（POC），整合文件搜尋、員工資料與大型語言模型（LLM），達成類似 RAG（Retrieval-Augmented Generation）的架構。
 
-##  專案架構流程圖
+##  專案架構圖
 ![image](https://github.com/user-attachments/assets/8f8ea6ac-a232-4cc3-bafa-9f2447cb7576)
-
+資料來源 : aws
 
 ##  使用技術
 
